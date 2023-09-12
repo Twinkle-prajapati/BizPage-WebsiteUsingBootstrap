@@ -1,1 +1,1 @@
-# BizPage-WebsiteUsingBootstrap
+# BizPage website using Bootstrap
